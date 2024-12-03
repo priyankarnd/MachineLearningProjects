@@ -1,6 +1,6 @@
 # MachineLearningProjects
 
-This is a repository for the machine learning projects that I do.
+This is a repository for the machine learning projects that I have done.
 
 Links for some other projects:
 
